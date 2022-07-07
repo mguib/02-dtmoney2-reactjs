@@ -1,46 +1,58 @@
-# Getting Started with Create React App
+# dtMoney
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+dtMoney é uma aplicação para controle de finanças pessoais criando com React-js na trilha do módulo 2 de React na plataforma Rocketseat.
 
-## Available Scripts
+<p align="center">
+  <a href="#features">Features</a> •
+  <a href="#requisitos">Pré Requisitos</a> •
+  <a href="#tecnologias">Tecnologias</a> •
+  <a href="#autor">Autor</a> •
+</p>
+
+<h4 align="center">🚧 Projeto dtMoney 🚀 Em constução....🚧 </h4>
+
+## Features
+- [x] Adicionar uma nova transação
+- [x] Listagem de todas as transações
+- [x] Controle de entradas saídas e total
+
 
 In the project directory, you can run:
 
-### `yarn start`
+## Requisitos
+Antes de começar você vai precisar ter instalado em sua máquina as seguites ferramentas: <a href="https://git-scm.com/">git</a> e <a href="https://nodejs.org/en/">NodeJS</a>.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Além disso é bom ter um editor para trabalhar com o código como <a href="https://code.visualstudio.com/">VsCode</a>.
+```bash
+# Clone este repositório
+$ git clone https://github.com/mguib/02-dtmoney2-reactjs.git
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Acesse a pasta do projeto no terminal/cmd
+$ cd 02-dtmoney2-reactjs
 
-### `yarn test`
+# Instale as dependências
+$ yarn
+# OU
+$ npm i
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Execute a aplicação em modo de desenvolvimento
+$ npm start
+#OU
+$ yarn start
+```
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Tecnologias
+Este projeto foi criando com React utilizando TypeScript
+As seguintes ferramentas foram usadas na constução do projeto:
+- [TypeScript]
+- [React]
+- [Styled Components]
+- [TypeScript]
+- [Node.js]
+- [MirageJS]
+- [Context API]
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Autor
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Made with 💜 by Marcos Guibson✌ [See my LinkedIn](https://www.linkedin.com/in/marcos-guibson-santos-da-silva-0b62321a3/)
