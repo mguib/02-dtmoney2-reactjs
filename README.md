@@ -2,6 +2,10 @@
 
 dtMoney é uma aplicação para controle de finanças pessoais criando com React-js na trilha do módulo 2 de React na plataforma Rocketseat. Os dados das transações são salvos em uma api criada com Mirage no próprio projeto.
 
+<h1 align="center">
+  <img alt="ToDo List" title="ToDo List" src="./github/dtMoney-gif.gif" />
+</h1>
+
 <p align="center">
   <a href="#features">Features</a> •
   <a href="#requisitos">Pré Requisitos</a> •
