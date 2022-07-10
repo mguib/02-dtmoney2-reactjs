@@ -58,5 +58,12 @@ As seguintes ferramentas foram usadas na constução do projeto:
 - [Context API]
 
 ## Autor
+Made with 💜 by Marcos Guibson✌
 
-Made with 💜 by Marcos Guibson✌ [See my LinkedIn](https://www.linkedin.com/in/marcos-guibson-santos-da-silva-0b62321a3/)
+<a href="https://www.linkedin.com/in/marcos-guibson-santos-da-silva-0b62321a3/" target="_blank" >
+  <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/_mguibsoon/" target="_blank" >
+  <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a> 
+
